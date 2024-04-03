@@ -1,1 +1,1 @@
-# Stats-Assesment
+# Stats-Assesment Both Intro and Applied 
